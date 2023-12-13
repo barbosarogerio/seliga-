@@ -5,3 +5,18 @@
     border: gray;
     border-style: double;
 }
+.lista{
+    border: double red 10px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+ #link-seliga{
+    font-size: 25px;
+    color: aliceblue;
+ }
+ #link-seliga{
+    font-size: 30px;
+    color: goldenrod;
+ }
